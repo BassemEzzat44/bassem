@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858674728666",
+    "project_id": "bassem-e9d20",
+    "storage_bucket": "bassem-e9d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858674728666:android:4b703481f5bea6183a9fe3",
+        "android_client_info": {
+          "package_name": "com.example.bassem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858674728666-q7u3cpr8qre7ikrogk1ms8klqf1uspc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHojbCHbF7K_yyTkd5c0u54s4T5Di3o5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858674728666-q7u3cpr8qre7ikrogk1ms8klqf1uspc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
