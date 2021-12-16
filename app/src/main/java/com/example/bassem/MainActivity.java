@@ -8,7 +8,6 @@ import android.os.Handler;
 
 public class MainActivity extends AppCompatActivity {
     boolean isLogin;
-    int dddddd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
